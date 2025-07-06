@@ -21,12 +21,19 @@ Add tasks, mark them as complete, delete them, and track your overall progress t
 
 ## 📚 What I Learned
 
-This was one of my first Flutter projects following a [Flutter YouTube tutorial](https://youtu.be/xWV71C2kp38?si=UYVW_7ao5qQjN4dd), and I extended it by:
+This was one of my first Flutter projects, developed by following a [Flutter YouTube tutorial](https://youtu.be/xWV71C2kp38?si=UYVW_7ao5qQjN4dd). Throughout the process, I gained foundational knowledge and also implemented a few additional features on my own.
 
-- Adding features like **adding new tasks** and **deleting tasks**
-- Understanding how to structure apps using **Flutter widgets**
-- Learning and applying **Riverpod** for clean and reactive state management
-- Implementing **immutable data modeling** and logic encapsulation with `StateNotifier`
-- Improving my ability to build responsive UIs
+### 🧠 From the Tutorial, I Learned:
+- How to structure a Flutter application using custom widgets
+- How to use **Riverpod** for efficient and reactive state management
+- Basics of **StateNotifier** for managing and updating a list of tasks
+- Techniques to build a clean and responsive UI in Flutter
+
+### ✨ What I Added Myself:
+- Implemented the ability to **add new tasks** dynamically from user input
+- Added a **delete** function to remove tasks individually
+
+This project laid the groundwork for my Flutter journey and helped me move from simply following instructions to actively building and extending apps on my own.
+
 
 
